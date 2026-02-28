@@ -114,7 +114,7 @@ const Board = ({ algorithm, title }) => {
   }, [snake, food, gameOver, direction, endpoint, isManual]);
 
   useEffect(() => {
-    const interval = setInterval(moveSnake, 300);
+    const interval = setInterval(moveSnake, 150);
     return () => clearInterval(interval);
   }, [moveSnake]);
 
