@@ -48,6 +48,7 @@ It analyzes performance based on:
 ---
 
 ## 🏗 Project Structure
+```
 snake-ai/
 │
 ├── frontend/
@@ -68,7 +69,7 @@ snake-ai/
 │ └── ai.py
 │
 └── README.md
-
+```
 
 ---
 
