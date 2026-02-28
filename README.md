@@ -157,7 +157,7 @@ CSS (Custom Neon Styling)
 
 ### 🏆 Sample Output
 
-![AI Snake Game](assets/assets/sampleoutput.png)
+![AI Snake Game](./assets/sampleoutput.png)
 
 ### 📈 Future Improvements
 
